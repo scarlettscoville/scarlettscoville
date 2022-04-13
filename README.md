@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, SQL, etc.
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me: scarlettscoville@gmail.com
+- ☕ https://www.buymeacoffee.com/kscarletts
 
 <!---
 scarlettscoville/scarlettscoville is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
