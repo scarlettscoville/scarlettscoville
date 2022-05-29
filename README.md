@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scarlettscoville
-- 👀 I’m interested in all things coding.
+- 👀 I’m interested in developing and honing my front end development skills using Javascript, React, etc.
 - 🌱 I’m currently learning Python, SQL, etc.
-- 💞️ I’m looking to collaborate on ???
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: scarlettscoville@gmail.com
 - ☕ [Buy me a coffee!](https://www.buymeacoffee.com/kscarletts)
 
