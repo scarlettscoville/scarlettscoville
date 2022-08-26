@@ -6,7 +6,7 @@ I am a full-stack web developer with 12 years of previous experience in K-12 edu
 
 - 👀 I’m interested in developing and honing my front end development skills using Javascript, React, etc.
 - 🌱 I’m currently learning React Redux and Salesforce.
-- 💞️ I’m looking to collaborate on front-end development or React applications!
+- 💞️ I’m looking to collaborate on front-end development or React applications.
 - ☕ [Buy me a coffee!](https://www.buymeacoffee.com/kscarletts)
 
 ## 📫 Let's Connect
