@@ -13,7 +13,7 @@ I am a full-stack web developer with 12 years of previous experience in K-12 edu
 
 [![linkedin image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/scarlettscoville)
 
-## :briefcase:Favorite Skills 
+## :briefcase:Favorite Skills
 
 ![bootstrap image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![css image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,11 +49,3 @@ I am a full-stack web developer with 12 years of previous experience in K-12 edu
 [![Scarlett's GitHub stats](https://github-readme-stats.vercel.app/api?username=scarlettscoville&show_icons=true&theme=midnight-purple)](https://github.com/scarlettscoville)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarlettscoville&hide=Jupyter%20Notebook&show_icons=true&theme=midnight-purple)](https://github.com/scarlettscoville)
-
-
-
-
-<!---
-scarlettscoville/scarlettscoville is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
