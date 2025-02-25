@@ -1,4 +1,4 @@
-![decorative banner image](scovillebanner.png)
+![decorative banner image](scovillebanner1.png)
 
 # 👋 Hi, I’m Scarlett
 
