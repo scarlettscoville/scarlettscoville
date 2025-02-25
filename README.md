@@ -2,10 +2,10 @@
 
 # 👋 Hi, I’m Scarlett
 
-I am a full-stack web developer with 12 years of previous experience in K-12 education and instructional technology. As a teacher, I used critical thinking and a keen eye for detail to develop innovative solutions within my classroom and campus.  As a developer, I will use these same skills to create beautiful, clean, responsive applications that are user-friendly and easy to navigate.  With an insatiable curiosity and dedication to lifelong learning, I am looking forward to growing in the areas of software development and leadership.
+I am a full-stack web developer and computer science teacher at Jones County High School in Gray, Georgia. In my role as a teacher, I leverage critical thinking and a keen eye for detail to develop innovative solutions within my classroom and across the campus. As a developer, I apply these same skills to create beautiful, clean, and responsive applications that are user-friendly and easy to navigate. With an insatiable curiosity and a dedication to lifelong learning, I am eager to continue growing in the fields of software development and leadership.
 
 - 👀 I’m interested in developing and honing my front end development skills using Javascript, React, etc.
-- 🌱 I’m currently learning PHP, MySQL, WordPress, and Salesforce.
+- 🌱 I’m currently learning Java, MySQL, WordPress, and Salesforce.
 - 💞️ I’m looking to collaborate on front-end development or React applications.
 - ☕ [Buy me a coffee!](https://www.buymeacoffee.com/kscarletts)
 
